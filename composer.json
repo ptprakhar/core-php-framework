@@ -1,0 +1,15 @@
+{
+    "name": "prakhar/custom-dev",
+    "authors": [
+        {
+            "name": "prakhar-at-992512424612",
+            "email": "prakhar@evolutionco.com"
+        }
+    ],
+        "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {}
+}
